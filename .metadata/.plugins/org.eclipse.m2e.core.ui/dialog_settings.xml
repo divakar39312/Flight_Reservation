@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\divak\OneDrive\Desktop\full stack project\HMSP\HospitalManagementSystem"/>
+			<item value="C:\Users\divak\OneDrive\Desktop\Project1\hospital-management-system-using-spring-boot"/>
+			<item value="C:\Users\divak\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\demo_crud_operation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
